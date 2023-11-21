@@ -1,0 +1,14 @@
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.exe.config
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.exe.config
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\bin\Debug\BankAccountProperties.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-1\BankAccountProperties\BankAccountProperties\obj\Debug\BankAccountProperties.pdb
